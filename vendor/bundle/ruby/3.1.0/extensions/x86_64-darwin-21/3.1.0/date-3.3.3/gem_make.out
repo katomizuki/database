@@ -1,0 +1,22 @@
+current directory: /Users/mizuki/Desktop/database/vendor/bundle/ruby/3.1.0/gems/date-3.3.3/ext/date
+/Users/mizuki/.rbenv/versions/3.1.2/bin/ruby -I /Users/mizuki/.rbenv/versions/3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with  -Werror... yes
+checking for altzone in time.h with  -Werror... no
+creating Makefile
+
+current directory: /Users/mizuki/Desktop/database/vendor/bundle/ruby/3.1.0/gems/date-3.3.3/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20230812-3730-hnfag8 sitelibdir\=./.gem.20230812-3730-hnfag8 clean
+
+current directory: /Users/mizuki/Desktop/database/vendor/bundle/ruby/3.1.0/gems/date-3.3.3/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20230812-3730-hnfag8 sitelibdir\=./.gem.20230812-3730-hnfag8
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/mizuki/Desktop/database/vendor/bundle/ruby/3.1.0/gems/date-3.3.3/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20230812-3730-hnfag8 sitelibdir\=./.gem.20230812-3730-hnfag8 install
+/usr/bin/install -c -m 0755 date_core.bundle ./.gem.20230812-3730-hnfag8

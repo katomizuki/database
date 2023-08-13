@@ -1,0 +1,18 @@
+current directory: /Users/mizuki/Desktop/database/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+/Users/mizuki/.rbenv/versions/3.1.2/bin/ruby -I /Users/mizuki/.rbenv/versions/3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/mizuki/Desktop/database/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230812-3730-896wv2 sitelibdir\=./.gem.20230812-3730-896wv2 clean
+
+current directory: /Users/mizuki/Desktop/database/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230812-3730-896wv2 sitelibdir\=./.gem.20230812-3730-896wv2
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/mizuki/Desktop/database/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230812-3730-896wv2 sitelibdir\=./.gem.20230812-3730-896wv2 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230812-3730-896wv2/racc

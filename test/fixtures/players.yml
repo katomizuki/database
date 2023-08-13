@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  detail_one: MyString
+  detail_two: MyString
+  detail_three: MyString
+  detail_four: MyString
+  detail_five: MyString
+
+two:
+  name: MyString
+  detail_one: MyString
+  detail_two: MyString
+  detail_three: MyString
+  detail_four: MyString
+  detail_five: MyString
